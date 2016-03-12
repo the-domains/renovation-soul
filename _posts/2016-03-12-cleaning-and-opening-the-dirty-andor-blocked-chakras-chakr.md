@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Cleaning and opening the dirty and/or blocked chakras. Chakras are the energy centers of our energetic bodies and they affect our physical bodies causing dis-ease when they become blocked, unclean, or both. Clearing and balancing your chakras will leave your ethereal and physical bodies feeling cleansed and in balance.'
-datePublished: '2016-03-12T22:02:51.261Z'
-dateModified: '2016-03-12T22:01:13.377Z'
+datePublished: '2016-03-12T22:03:57.565Z'
+dateModified: '2016-03-12T22:02:59.800Z'
 title: ''
 author: []
 authors: []
