@@ -1,7 +1,7 @@
 name: Renovation Soul
 favicon: null
-layout_spectrum: 0.25044
-typography_spectrum: 0.50369
+layout_spectrum: 1
+typography_spectrum: 0.37456
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.7755155626218766
-  rhythmicContrast: 0.5591276960913092
+  brandStrength: 1
+  lightness: 0.625
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
