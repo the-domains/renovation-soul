@@ -11,8 +11,8 @@ description: >
   promoting a faster healing. Although they do not claim to be psychics, their
   inner vision is enhanced during a Twin Flames Healing session, a reading will
   usually accompany this kind of session.
-datePublished: '2016-03-12T21:51:10.123Z'
-dateModified: '2016-03-12T21:46:07.214Z'
+datePublished: '2016-03-12T22:02:36.830Z'
+dateModified: '2016-03-12T21:51:18.213Z'
 title: ''
 author: []
 authors: []
@@ -29,4 +29,4 @@ _type: WebPage
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5c04cfc-ff6f-49a6-b04c-463b8c4655d5.jpg)
 
-A unique healing modality known only to Gina and Jeane. When the mother and daughter team work together their energetic power and strength is amplified- promoting a faster healing. Although they do not claim to be psychics, their inner vision is enhanced during a Twin Flames Healing session, a reading will usually accompany this kind of session.
+A unique healing modality known only to Gina and Jeane. When the mother and daughter team work together their energetic power and strength is amplified- promoting a faster healing. Although they are not mediums, their inner vision is enhanced during a Twin Flames Healing session and a reading will accompany this kind of session.
