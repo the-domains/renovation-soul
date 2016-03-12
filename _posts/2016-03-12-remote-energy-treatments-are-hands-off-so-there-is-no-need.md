@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T22:03:19.162Z'
-dateModified: '2016-03-12T21:57:19.729Z'
-title: ''
+datePublished: '2016-03-12T23:01:51.888Z'
+dateModified: '2016-03-12T22:03:27.877Z'
+title: Remote Healing
 author: []
 authors: []
 publisher:
