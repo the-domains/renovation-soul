@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Remote energy treatments are “hands off” so there is no need to worry if your in physical pain. I work with your energy field- not on your physical body. Your energy field is connected to all universal energy, which means that energy therapies may be facilitated from a distance. Remote healing sessions are equally effective as ones given in person, and allow you to remain at home.'
-datePublished: '2016-03-12T21:48:41.830Z'
-dateModified: '2016-03-12T21:48:41.579Z'
+description: "Remote energy treatments are “hands off” so there is no need to worry if you're in physical pain. I work with your energy field- not on your physical body.\_"
+datePublished: '2016-03-12T21:55:06.542Z'
+dateModified: '2016-03-12T21:55:05.862Z'
 title: ''
 author: []
 authors: []
@@ -22,9 +22,10 @@ url: remote-energy-treatments-are-hands-off-so-there-is-no-need/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72173b58-3146-4f00-8f5a-f84c45bf1a9f.jpg)
+
 Remote energy treatments are "hands off" so there is no need to worry if you're in physical pain. I work with your energy field- not on your physical body. 
 
 Your energy field is connected to all universal energy, which means that energy therapies may be facilitated from a distance. 
 
 Remote healing sessions are equally effective as ones given in person, and allow you to remain at home.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eac9c97a-8b8c-4f14-bc90-a3e622ea9659.jpg)
