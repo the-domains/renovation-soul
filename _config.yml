@@ -1,0 +1,28 @@
+name: Renovation Soul
+favicon: null
+layout_spectrum: 0.10335618979297578
+typography_spectrum: 0.5799365295097232
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.08587192906998098
+  lightness: 0.23709307773970068
+  saturation: 0.7755155626218766
+  rhythmicContrast: 0.5591276960913092
+purpose: []
