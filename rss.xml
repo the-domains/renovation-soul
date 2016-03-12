@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Renovation Soul]]></title>
         <description><![CDATA[Renovation Soul]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/renovation-soul/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 18:39:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 19:12:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/renovation-soul/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[Gina Paris considers herself a multi-faceted Renovation Soul. Gina is an interior designer who's firm specializes in renovation and redesign, an Energy Angel, Reconnective Healing® Practitioner, certified in Reconnective Healing Animals®,  speaker, wife, and mother of three children- plus two cats. Gina has sought out innovative and cutting edge healing methods for 18 years in her effort to provide her son, with special needs, a more comfortable and happy life. This search has lead her to healing modalities such as Reconnective Healing®, Myofacial Release Therapy and more. ]]></description>
-            <link>undefinedgina-paris-considers-herself-a-multi-faceted-renovation-soul/index.html</link>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<article><h1>About Us</h1><p>Gina’s holistic journey began 26 years ago when her mother, Lavina Jeane, became deathly ill and Gina cared for her mother and her siblings. In 1997 Gina’s first child, Brady, sustained severe brain damage during delivery and was given two months to live. Together Gina and Jeane searched for treatments outside of main stream medicine to provide a more comfortable life for Brady. Although Brady passed away November 6, 2012- at the age of 15 1/2, Gina continues to grow and learn about the metaphysical world, and enjoys sharing the healing gifts she’s acquired with others so that they may find the peace, comfort and joy within this world that she has.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3a39c3ddec36b747f8199e73305e769248bbd66.jpg"></article>]]></description>
+            <link>https://thegrid.ai/renovation-soul/gina-paris-considers-herself-a-multi-faceted-renovation-soul/index.html</link>
             <guid isPermaLink="false">b62c48f3-8f32-4a44-bb8b-49626f38a70c</guid>
-            <pubDate>Sat, 12 Mar 2016 18:39:44 GMT</pubDate>
+            <pubDate>Sat, 12 Mar 2016 19:12:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
