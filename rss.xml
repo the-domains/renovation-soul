@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Renovation Soul]]></title>
+        <description><![CDATA[Renovation Soul]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 12 Mar 2016 18:39:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[Gina Paris considers herself a multi-faceted Renovation Soul. Gina is an interior designer who's firm specializes in renovation and redesign, an Energy Angel, Reconnective Healing® Practitioner, certified in Reconnective Healing Animals®,  speaker, wife, and mother of three children- plus two cats. Gina has sought out innovative and cutting edge healing methods for 18 years in her effort to provide her son, with special needs, a more comfortable and happy life. This search has lead her to healing modalities such as Reconnective Healing®, Myofacial Release Therapy and more. ]]></description>
+            <link>undefinedgina-paris-considers-herself-a-multi-faceted-renovation-soul/index.html</link>
+            <guid isPermaLink="false">b62c48f3-8f32-4a44-bb8b-49626f38a70c</guid>
+            <pubDate>Sat, 12 Mar 2016 18:39:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
