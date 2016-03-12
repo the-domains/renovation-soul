@@ -1,7 +1,7 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
@@ -11,8 +11,8 @@ description: >
   promoting a faster healing. Although they do not claim to be psychics, their
   inner vision is enhanced during a Twin Flames Healing session, a reading will
   usually accompany this kind of session.
-datePublished: '2016-03-12T21:43:54.024Z'
-dateModified: '2016-03-12T21:43:53.105Z'
+datePublished: '2016-03-12T21:51:10.123Z'
+dateModified: '2016-03-12T21:46:07.214Z'
 title: ''
 author: []
 authors: []
@@ -24,7 +24,7 @@ publisher:
 sourcePath: _posts/2016-03-12-a-unique-healing-modality-known-only-to-gina-and-jeane-when.md
 published: true
 url: a-unique-healing-modality-known-only-to-gina-and-jeane-when/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5c04cfc-ff6f-49a6-b04c-463b8c4655d5.jpg)
