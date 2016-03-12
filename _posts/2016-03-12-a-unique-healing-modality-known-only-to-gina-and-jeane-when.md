@@ -11,9 +11,9 @@ description: >
   promoting a faster healing. Although they do not claim to be psychics, their
   inner vision is enhanced during a Twin Flames Healing session, a reading will
   usually accompany this kind of session.
-datePublished: '2016-03-12T22:03:34.307Z'
-dateModified: '2016-03-12T22:02:46.624Z'
-title: ''
+datePublished: '2016-03-12T22:32:36.407Z'
+dateModified: '2016-03-12T22:03:44.249Z'
+title: Twin Flames Healing
 author: []
 authors: []
 publisher:
