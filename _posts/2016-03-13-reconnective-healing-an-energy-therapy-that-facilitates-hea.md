@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Reconnective Healing: an energy therapy that facilitates healing by bringing light and information to the body through the frequencies surrounding it. You may experience tingling, hot and cold chills, and other sensations during the treatment. This is a very gentle form of energy healing, and your body will begin to integrate the energy shifts immediately.'
-datePublished: '2016-03-13T01:00:02.219Z'
-dateModified: '2016-03-13T00:58:49.572Z'
+datePublished: '2016-03-13T01:01:10.108Z'
+dateModified: '2016-03-13T01:00:08.342Z'
 title: Services
 author: []
+sourcePath: _posts/2016-03-13-reconnective-healing-an-energy-therapy-that-facilitates-hea.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-reconnective-healing-an-energy-therapy-that-facilitates-hea.md
-published: true
 url: reconnective-healing-an-energy-therapy-that-facilitates-hea/index.html
 _type: Article
 
