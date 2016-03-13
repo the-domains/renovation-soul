@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
-description: "Gina Paris is a multi-faceted Renovation Soul. She is an interior designer who's firm- Gina Paris Design- specializes in renovation and redesign, Energy Angel,\_Reconnective Healing® Practitioner, \_Reconnective Animals®, \_speaker, wife, and mother of three children- plus two cats. \_"
-datePublished: '2016-03-13T19:56:31.845Z'
-dateModified: '2016-03-13T19:55:02.778Z'
+description: "Welcome to Renovation Soul! Here you'll find bite sized portions of wisdom for your spirit. "
+datePublished: '2016-03-13T19:59:55.009Z'
+dateModified: '2016-03-13T19:59:14.841Z'
 title: Renovation Soul
 author: []
 sourcePath: _posts/2016-03-12-gina-paris-considers-herself-a-multi-faceted-renovation-soul.md
