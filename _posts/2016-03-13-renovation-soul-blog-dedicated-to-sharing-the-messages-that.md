@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Renovation Soul is dedicated to sharing the messages that Gina and Jeane receive while working together on their own stuff. If you’re reading this, then these angelic messages are meant for you as well- we hope they provide earthly wisdom, and bring hope and comfort into your life.\_"
-datePublished: '2016-03-13T21:01:28.285Z'
-dateModified: '2016-03-13T21:01:13.350Z'
+datePublished: '2016-03-13T23:35:54.397Z'
+dateModified: '2016-03-13T23:33:38.759Z'
 title: About Us
 author: []
 sourcePath: _posts/2016-03-13-renovation-soul-blog-dedicated-to-sharing-the-messages-that.md
@@ -42,11 +42,9 @@ Gina is a Reconnective Healing(r) Practitioner- also certified in Reconnective A
 Lavina Jeane Page is an international intuitive healer working with individuals as well as groups for over 35 years. After her near death experience 26 years ago, when she saw the Black Curtain and was diagnosed with multiple life threatening illnesses, Jeane was given only two short weeks to live. Through her own self discovery and spiritual journey Lavina has made a full recovery. Seeking innovative and cutting edge healing methods has led her to Reconnective Healing, holistic therapies, and Angel Attunements. Jeane now feels guided to share her healing gifts and her story so that others may be lifted up and healed.  
 > 
 > Jeane has a healing gift! Her session was an exceptional experience, which far exceeded my understanding. _Lynn Miller_
-> 
-> 
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54338184-1df1-4a00-b588-51a515419802.jpg)
 
 Intrigued? Contact us for more information. 
 
-Call 814-573-0226 or email Gina@WorkwithAngels.com
+Gina@RenovationSoul.com
