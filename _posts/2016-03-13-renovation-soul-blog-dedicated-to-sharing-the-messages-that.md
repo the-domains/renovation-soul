@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Renovation Soul is dedicated to sharing the messages that Gina and Jeane receive while working together on their own stuff. If you’re reading this, then these angelic messages are meant for you as well- we hope they provide earthly wisdom, and bring hope and comfort into your life.\_"
-datePublished: '2016-03-13T19:35:29.000Z'
-dateModified: '2016-03-13T19:35:27.281Z'
+datePublished: '2016-03-13T19:40:27.605Z'
+dateModified: '2016-03-13T19:40:02.078Z'
 title: About Us
 author: []
 sourcePath: _posts/2016-03-13-renovation-soul-blog-dedicated-to-sharing-the-messages-that.md
@@ -52,3 +52,4 @@ Lavina Jeane Page is an international intuitive healer working with individuals 
 Intrigued? Contact us for more information. 
 
 Call 814-573-0226 or email Gina@WorkwithAngels.com
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/139bea8b-8dfe-40b2-bf81-3cb32a3cbe0c.jpg)
