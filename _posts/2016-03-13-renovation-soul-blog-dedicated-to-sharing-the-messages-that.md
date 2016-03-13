@@ -86,8 +86,8 @@ description: >-
 
 
   Call 814-573-0226 or email Gina@WorkwithAngels.com
-datePublished: '2016-03-13T18:54:57.689Z'
-dateModified: '2016-03-13T18:54:57.367Z'
+datePublished: '2016-03-13T18:58:39.777Z'
+dateModified: '2016-03-13T18:58:22.246Z'
 title: About Us
 author: []
 authors: []
@@ -109,9 +109,9 @@ The two have shared much of the same hardships, pain and suffering that you have
 As they traveled deeper into the metaphysical world, Jeane and Gina learned how to listen to, and work with, angels to maintain their balance and health during the dramatic changes and every day ups and downs that take place in our lives.
 Now, mother and daughter share their love, wisdom, and powerful healing gifts with others so that they too may find love and health. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/774db7bd-256f-4c7a-8741-fe1e9a9bf1aa.jpg)
 
-Gina Paris is a multi-faceted renovation soul. Her interior design firm- Gina Paris Design- specializes in renovation and redesign; and as intuitive healer her focus is on spiritually overhauling the soul.  
+Gina Paris is a multi-faceted renovation soul. Her interior design firm- Gina Paris Design- specializes in renovation and redesign; and as intuitive healer her focus is on spiritually overhauling the soul.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b77db0d-6339-48d1-a6f1-47ed77a86943.jpg)
 
-In 1997 Gina's first child, Brady, sustained severe brain damage during delivery and was given two months to live. Again, Gina and Jeane searched for treatments outside of main stream medicine to provide a more comfortable life for Brady. Although Brady passed away November 6, 2012- at the age of 15 1/2, Gina continues to grow and learn about the metaphysical world, and enjoys sharing the healing gifts she's acquired with others so that they may find the peace and comfort within this world that she has. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b77db0d-6339-48d1-a6f1-47ed77a86943.jpg)
+In 1997 Gina's first child, Brady, sustained severe brain damage during delivery and was given two months to live. Again, Gina and Jeane searched for treatments outside of main stream medicine to provide a more comfortable life for Brady. Although Brady passed away November 6, 2012- at the age of 15 1/2, Gina continues to grow and learn about the metaphysical world, and enjoys sharing the healing gifts she's acquired with others so that they may find the peace and comfort within this world that she has. 
 
 Gina is a Reconnective Healing(r) Practitioner- also certified in Reconnective Animals(r), inspirational speaker, writer, wife, mother of three, and so much more.
 
