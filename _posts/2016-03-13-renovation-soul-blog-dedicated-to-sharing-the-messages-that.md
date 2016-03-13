@@ -86,8 +86,8 @@ description: >-
 
 
   Call 814-573-0226 or email Gina@WorkwithAngels.com
-datePublished: '2016-03-13T18:58:39.777Z'
-dateModified: '2016-03-13T18:58:22.246Z'
+datePublished: '2016-03-13T19:02:44.802Z'
+dateModified: '2016-03-13T19:02:40.341Z'
 title: About Us
 author: []
 authors: []
