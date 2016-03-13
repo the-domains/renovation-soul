@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://eepurl.com/bT0hcn'
 inLanguage: null
 starred: false
 keywords: []
-description: "Want to receive post updates? Click the photo and fill out the form. It's that easy.\_"
-datePublished: '2016-03-13T23:16:29.665Z'
-dateModified: '2016-03-13T23:16:06.596Z'
+description: "Want to receive post updates? Click the photo, fill out the form- it's that easy.\_"
+datePublished: '2016-03-13T23:40:04.094Z'
+dateModified: '2016-03-13T23:39:35.685Z'
 title: Connect with Us
 author: []
 sourcePath: _posts/2016-03-13-connect-with-us.md
@@ -24,4 +24,9 @@ _type: MediaObject
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f62a1cf45d13da2f86676915cf3e29f03cfb93bd.jpg)
 
-Want to receive post updates? Click the photo, fill out the form- it's that easy.
+Want to receive post updates? Click the photo, fill out the form- it's that easy. 
+
+[[Email Me][1] "Gina@RenovationSoul.com][0]
+
+[0]: href
+[1]: mailto:gina@renovationsoul.com
