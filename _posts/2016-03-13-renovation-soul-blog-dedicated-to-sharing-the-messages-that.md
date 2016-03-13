@@ -86,8 +86,8 @@ description: >-
 
 
   Call 814-573-0226 or email Gina@WorkwithAngels.com
-datePublished: '2016-03-13T19:05:43.610Z'
-dateModified: '2016-03-13T19:05:41.294Z'
+datePublished: '2016-03-13T19:17:56.251Z'
+dateModified: '2016-03-13T19:17:55.952Z'
 title: About Us
 author: []
 authors: []
@@ -119,12 +119,14 @@ Gina is a Reconnective Healing(r) Practitioner- also certified in Reconnective A
 > 
 > _Sarah Shepard_
 
-Lavina Jeane Page is an international intuitive healer working with individuals as well as groups for over 35 years. After her near death experience 26 years ago, when she saw the Black Curtain and was diagnosed with multiple life threatening illnesses, Jeane was given only two short weeks to live. Through her own self discovery and spiritual journey Lavina has made a full recovery. Seeking innovative and cutting edge healing methods has led her to Reconnective Healing, holistic therapies, and Angel Attunements. Jeane now feels guided to share her healing gifts and her story so that others may be lifted up and healed.  
-> 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d15c3387-0ee4-493a-9366-d2cc230c1334.jpg)
+
+Lavina Jeane Page is an international intuitive healer working with individuals as well as groups for over 35 years. After her near death experience 26 years ago, when she saw the Black Curtain and was diagnosed with multiple life threatening illnesses, Jeane was given only two short weeks to live. Through her own self discovery and spiritual journey Lavina has made a full recovery. Seeking innovative and cutting edge healing methods has led her to Reconnective Healing, holistic therapies, and Angel Attunements. Jeane now feels guided to share her healing gifts and her story so that others may be lifted up and healed.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54338184-1df1-4a00-b588-51a515419802.jpg)
+
 > Jeane has a healing gift! Her session was an exceptional experience, which far exceeded my understanding.
 > 
 > _Lynn Miller_
 
-Intrigued? Contact us for more information. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54338184-1df1-4a00-b588-51a515419802.jpg)
+Intrigued? Contact us for more information. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ab35d1d-0273-4809-8de9-7e47220456a2.jpg)
 
 Call 814-573-0226 or email Gina@WorkwithAngels.com
