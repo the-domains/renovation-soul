@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Energy Therapies
-datePublished: '2016-03-13T00:58:46.463Z'
-dateModified: '2016-03-13T00:55:04.204Z'
+description: 'Reconnective Healing: an energy therapy that facilitates healing by bringing light and information to the body through the frequencies surrounding it. You may experience tingling, hot and cold chills, and other sensations during the treatment. This is a very gentle form of energy healing, and your body will begin to integrate the energy shifts immediately.'
+datePublished: '2016-03-13T01:00:02.219Z'
+dateModified: '2016-03-13T00:58:49.572Z'
 title: Services
 author: []
 authors: []
@@ -35,9 +35,9 @@ A unique healing modality known only to Gina and Jeane. When the mother and daug
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9aff52f9-ca74-4e68-9925-9e4694968ce2.jpg)
 
 Chakra Balancing & Clearing    
-Cleaning and opening the dirty and/or blocked chakras. Chakras are the energy centers of our energetic bodies and they affect our physical bodies causing dis-ease when they become blocked, unclean, or both. Clearing and balancing your chakras will leave your ethereal and physical bodies feeling cleansed and in balance. 
+Cleaning and opening the dirty and/or blocked chakras. Chakras are the energy centers of our energetic bodies and they affect our physical bodies causing dis-ease when they become blocked, unclean, or both. Clearing and balancing your chakras will leave your ethereal and physical bodies feeling cleansed and in balance. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b495a836-7e0c-409b-a125-aac6e5514e75.jpg)
 
 Remote Healing
-All of these energy treatments are "hands off" so there is no need to worry if your in physical pain. We work with your energy field- not on your physical body. Your energy field is connected to all universal energy, which means that energy therapies may be facilitated from a distance. Remote healing sessions are equally effective as ones given in person, and allow you to remain at home. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b495a836-7e0c-409b-a125-aac6e5514e75.jpg)
+All of these energy treatments are "hands off" so there is no need to worry if your in physical pain. We work with your energy field- not on your physical body. Your energy field is connected to all universal energy, which means that energy therapies may be facilitated from a distance. Remote healing sessions are equally effective as ones given in person, and allow you to remain at home. 
 
 No need to worry which healing session you'd like if you don't know... we will be guided in the best healing modality for you.
