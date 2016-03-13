@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Renovation Soul is dedicated to sharing the messages that Gina and Jeane receive while working together on their own stuff. If you’re reading this, then these angelic messages are meant for you as well- we hope they provide earthly wisdom, and bring hope and comfort into your life.\_"
-datePublished: '2016-03-13T20:02:06.302Z'
-dateModified: '2016-03-13T20:01:53.098Z'
+datePublished: '2016-03-13T20:05:06.808Z'
+dateModified: '2016-03-13T20:05:05.839Z'
 title: About Us
 author: []
 sourcePath: _posts/2016-03-13-renovation-soul-blog-dedicated-to-sharing-the-messages-that.md
@@ -27,7 +27,7 @@ Renovation Soul is dedicated to sharing the messages that Gina and Jeane receive
 Gina and Lavina Jeane's lives have been entwined since Gina's birth; they are mother and daughter.
 The two have shared much of the same hardships, pain and suffering that you have; and conventional medicine gave them no hope. Together they journeyed into Holistic medicine and the metaphysical, and discovered how to heal themselves, bringing health, hope and happiness into their lives.
 As they traveled deeper into the metaphysical world, Jeane and Gina learned how to listen to, and work with, angels to maintain their balance and health during the dramatic changes and every day ups and downs that take place in our lives.
-Now, mother and daughter share their love, wisdom, and powerful healing gifts with others so that they too may find love and health. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/139bea8b-8dfe-40b2-bf81-3cb32a3cbe0c.jpg)
+Now, mother and daughter share their love, wisdom, and powerful healing gifts with others so that they too may find love and health. 
 
 Gina Paris is a multi-faceted renovation soul. Her interior design firm- Gina Paris Design- specializes in renovation and redesign; and as intuitive healer her focus is on spiritually overhauling the soul.  
 
