@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Welcome to Renovation Soul! Here you'll find bite sized portions of wisdom to renovate your soul. "
-datePublished: '2016-03-13T17:45:36.251Z'
-dateModified: '2016-03-13T17:45:31.115Z'
+datePublished: '2016-03-13T18:36:11.850Z'
+dateModified: '2016-03-13T17:45:47.597Z'
 title: Renovation Soul
 author: []
 sourcePath: _posts/2016-03-12-gina-paris-considers-herself-a-multi-faceted-renovation-soul.md
