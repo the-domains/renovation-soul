@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
@@ -86,9 +86,9 @@ description: >-
 
 
   Call 814-573-0226 or email Gina@WorkwithAngels.com
-datePublished: '2016-03-13T18:09:46.225Z'
-dateModified: '2016-03-13T18:09:33.528Z'
-title: ''
+datePublished: '2016-03-13T18:17:05.006Z'
+dateModified: '2016-03-13T18:16:04.924Z'
+title: About Us
 author: []
 authors: []
 publisher:
@@ -102,7 +102,7 @@ url: renovation-soul-blog-dedicated-to-sharing-the-messages-that/index.html
 _type: Article
 
 ---
-Renovation Soul blog dedicated to sharing the messages that Gina and Jeane receive while working together with angels. If you're reading this, then these angelic messages are meant for you as well- we hope they provide earthly wisdom, and bring hope and comfort into your life. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56ceecf9-20b7-4405-827e-205b6f24f784.jpg)
+Renovation Soul is dedicated to sharing the messages that Gina and Jeane receive while working together on their own stuff. If you're reading this, then these angelic messages are meant for you as well- we hope they provide earthly wisdom, and bring hope and comfort into your life. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56ceecf9-20b7-4405-827e-205b6f24f784.jpg)
 
 Gina and Lavina Jeane's lives have been entwined since Gina's birth; they are mother and daughter.
 The two have shared much of the same hardships, pain and suffering that you have; and conventional medicine gave them no hope. Together they journeyed into Holistic medicine and the metaphysical, and discovered how to heal themselves, bringing health, hope and happiness into their lives.
