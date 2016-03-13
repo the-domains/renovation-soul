@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Energy Therapies
-datePublished: '2016-03-13T00:51:59.418Z'
-dateModified: '2016-03-13T00:51:38.359Z'
+datePublished: '2016-03-13T00:58:46.463Z'
+dateModified: '2016-03-13T00:55:04.204Z'
 title: Services
 author: []
 authors: []
