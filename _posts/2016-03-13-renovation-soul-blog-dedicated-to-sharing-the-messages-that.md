@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Renovation Soul is dedicated to sharing the messages that Gina and Jeane receive while working together on their own stuff. If you’re reading this, then these angelic messages are meant for you as well- we hope they provide earthly wisdom, and bring hope and comfort into your life.\_"
-datePublished: '2016-03-13T19:45:29.963Z'
-dateModified: '2016-03-13T19:45:23.113Z'
+datePublished: '2016-03-13T20:02:06.302Z'
+dateModified: '2016-03-13T20:01:53.098Z'
 title: About Us
 author: []
 sourcePath: _posts/2016-03-13-renovation-soul-blog-dedicated-to-sharing-the-messages-that.md
