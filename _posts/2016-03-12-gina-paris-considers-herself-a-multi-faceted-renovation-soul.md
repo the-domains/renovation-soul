@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: "Welcome to Renovation Soul! Here you'll find bite sized portions of wisdom for your spirit. "
-datePublished: '2016-03-14T16:47:56.197Z'
-dateModified: '2016-03-14T14:01:42.424Z'
+datePublished: '2016-03-14T21:45:52.510Z'
+dateModified: '2016-03-14T21:45:52.278Z'
 title: Renovation Soul
 author: []
 sourcePath: _posts/2016-03-12-gina-paris-considers-herself-a-multi-faceted-renovation-soul.md
